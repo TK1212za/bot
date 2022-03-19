@@ -6,7 +6,7 @@ from discord.ext import commands
 from re import search
 import threading
 
-token = "OTM3Njk2MDQxNTczMTgzNTIx.YffffQ.A2LfMJeRS8N1LVeH0RKfbZMTg3g"
+token = "OTU0NTgyNTU0NjUxMDAwODUy.YjVOSA.ocjgAu0CX423s1uNND10r_0DGzI"
 
 
 
